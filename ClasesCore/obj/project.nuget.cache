@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RbV5kPr/3wPAzsadbuA+vV8o2zbah66Hy4+XFAKpYmYCSRRevRk1IiaKiLEPBqD4kguKGocwVzRwNtgYwRrmCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kelvin\\source\\repos\\Proyecto Final Programacion 2.KelvinyEric\\ClasesCore\\ClasesCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kelvin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kelvin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
